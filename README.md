@@ -17,4 +17,7 @@ This game is about a hapless space pirate, drunk and on the run from the law and
 - a win/fail screen
 
 ## Screenshots
-tbd
+![screenshot](screenshots/spacepirate01.png)
+![screenshot](screenshots/spacepirate02.png)
+![screenshot](screenshots/spacepirate03.png)
+![screenshot](screenshots/spacepirate04.png)
